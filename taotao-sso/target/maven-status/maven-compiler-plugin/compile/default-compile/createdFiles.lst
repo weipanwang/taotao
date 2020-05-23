@@ -1,0 +1,3 @@
+com\taotao\sso\controller\RegisterController.class
+taotao\sso\service\RegisterService.class
+taotao\sso\service\impl\RegisterServiceImpl.class
